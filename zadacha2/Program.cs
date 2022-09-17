@@ -2,7 +2,7 @@
 Console.WriteLine("Введите первое число:   ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите второе число:   ");
+Console.WriteLine("Введите второе число, отличное от первого:   ");
 int numberB = Convert.ToInt32(Console.ReadLine());
 
 if(numberA > numberB)
