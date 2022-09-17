@@ -7,9 +7,9 @@ int numberB = Convert.ToInt32(Console.ReadLine());
 
 if(numberA > numberB)
 {
-    Console.WriteLine("Первое число " + numberA + "больше чем второе " + numberB);
+    Console.WriteLine("Первое число " + numberA + " больше чем второе " + numberB);
 }
 else
 {
-    Console.WriteLine("Второе число " + numberB + "больше чем первое " + numberA);
+    Console.WriteLine("Второе число " + numberB + " больше чем первое " + numberA);
 }
